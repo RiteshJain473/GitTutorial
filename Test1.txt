@@ -2,3 +2,9 @@ Hello
 
 git init
 git status
+git add Test1.txt
+git config --global user.name "Ritesh Jain"
+git config --global user.email "riteshjain473@gmail.com"
+git commit -m "First Git"
+git log
+git add .
