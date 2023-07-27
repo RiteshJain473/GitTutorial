@@ -8,3 +8,4 @@ git config --global user.email "riteshjain473@gmail.com"
 git commit -m "First Git"
 git log
 git add .
+git status
