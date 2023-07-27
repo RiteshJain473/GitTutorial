@@ -20,3 +20,7 @@ git rm --cached -r .
 touch .gitignore
 
 https://github.com/github/gitignore
+
+cd {Location}
+git clone https://github.com/RiteshJain473/GitTutorial.git
+
