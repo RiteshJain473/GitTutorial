@@ -1,5 +1,3 @@
-Hello
-
 git init
 git status
 git add Test1.txt
@@ -24,8 +22,22 @@ https://github.com/github/gitignore
 cd {Location}
 git clone https://github.com/RiteshJain473/GitTutorial.git
 
-
 git branch
 git branch newtest
+
+only after commit exisiting branch, switch to new branch
 git checkout newtest
+
+git add .
+git commit -m "Description"
+
+git branch
+git checkout master
+
+First go to master to merge branch to master
+git merge newtest
+
+
+
+
 
