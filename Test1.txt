@@ -9,3 +9,5 @@ git commit -m "First Git"
 git log
 git add .
 git status
+git diff Test2.txt
+git checkout Test2.txt
