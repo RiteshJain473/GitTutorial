@@ -38,6 +38,9 @@ First go to master to merge branch to master
 git merge newtest
 
 
+Update Project commit from Github
+Git > Update Project
+
 
 
 
